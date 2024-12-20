@@ -92,13 +92,13 @@ Maintains system health by cleaning unwanted files and optimizing storage.
 ### YouTube Downloader
 
 ```bash
-bash yt_downloader.py
+bash yt_downloader.sh
 ```
 
 ### System Update
 
 ```bash
-python system_update.py --auto-reboot --notify
+bash system_update.sh
 ```
 
 ### Security Monitor
